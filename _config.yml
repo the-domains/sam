@@ -1,0 +1,23 @@
+name: sam
+favicon: null
+layout_spectrum: 0.25524070486426353
+typography_spectrum: 0.6779099132400006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9025902389548719
+  lightness: 0.8001817304175347
+  saturation: 0.8153684276621789
+  rhythmicContrast: 0.4257017800118774
+purpose: []
